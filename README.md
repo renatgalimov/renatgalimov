@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Renat from [Screenly](https://github.com/Screenly/)
+### Hi there 👋, I'm Renat - productivity enthusiast
 
 - 🔭 I’m currently working on the following repositories. Any contribution is appreciated:
   - Better formatting of Anki notes: orgtre/anki-editor#27
