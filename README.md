@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on the following repositories. Any contribution is appreciated:
   - Better formatting of Anki notes: orgtre/anki-editor#27
-  - OpenAI powered search in org files: org-roam/org-roam#2346
+  - renatgalimov/org-embeddings - OpenAI powered search in org files: org-roam/org-roam#2346. 
 
 <!--
 **renatgalimov/renatgalimov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
