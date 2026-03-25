@@ -1,8 +1,9 @@
 ### Hi there 👋, I'm Renat - productivity enthusiast, I organize and optimize. 
 
 - 🔭 I’m currently working on the following repositories. Any contribution is appreciated:
+  - [renatgalimov/op.el](https://github.com/renatgalimov/op.el) - 1Password integration for Emacs
   - Better formatting of Anki notes: orgtre/anki-editor#27
-  - [renatgalimov/org-embeddings](https://github.com/renatgalimov/org-embeddings) - OpenAI powered search in org files: org-roam/org-roam#2346. 
+  - [renatgalimov/org-embeddings](https://github.com/renatgalimov/org-embeddings) - OpenAI-powered search in org files: org-roam/org-roam#2346. 
 
 <!--
 **renatgalimov/renatgalimov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
