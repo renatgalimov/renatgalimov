@@ -1,0 +1,17 @@
+base_url = "https://renatgalimov.blog"
+
+title = "Renat Galimov"
+description = "Notes on productivity, Emacs, and organizing things."
+default_language = "en"
+
+compile_sass = false
+build_search_index = false
+minify_html = false
+
+generate_feeds = true
+feed_filenames = ["atom.xml"]
+
+[markdown.highlighting]
+theme = "github-dark"
+
+[extra]
