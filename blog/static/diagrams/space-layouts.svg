@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 720 364" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="spaces-title spaces-desc">
+  <title id="spaces-title">The bits are in the spaces</title>
+  <desc id="spaces-desc">Three words built from tokens. A fixed layout of 3 + 4 + 4 tokens needs 11 tokens for 64 bits. With free word lengths, ten tokens can be split into three words in six ways (4+4+2, 4+2+4, 2+4+4, 4+3+3, 3+4+3, 3+3+4); each layout holds 63 bits and the choice of layout adds 2.58 bits, 65.6 in total.</desc>
+  <defs>
+  <style>@import url('https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600&amp;family=Geist+Mono:wght@400;500;600&amp;display=swap');</style>
+  </defs>
+  <rect width="100%" height="100%" fill="#f5f5f5"/>
+  <text x="40" y="66" fill="#2d3142" font-size="15" font-family="'Geist', sans-serif" font-weight="600" text-anchor="start">Fixed word lengths</text>
+  <text x="680" y="66" fill="#4f5d75" font-size="12" font-family="'Geist Mono', monospace" text-anchor="end">11 tokens, 69 bits</text>
+  <rect x="40" y="80" width="20" height="20" rx="3" fill="#eb6c36"/>
+  <rect x="63.6" y="80.6" width="18.8" height="18.8" rx="3" fill="none" stroke="#4f5d75" stroke-width="1.2"/>
+  <rect x="86.6" y="80.6" width="18.8" height="18.8" rx="3" fill="none" stroke="#4f5d75" stroke-width="1.2"/>
+  <rect x="120" y="80" width="20" height="20" rx="3" fill="#eb6c36"/>
+  <rect x="143.6" y="80.6" width="18.8" height="18.8" rx="3" fill="none" stroke="#4f5d75" stroke-width="1.2"/>
+  <rect x="166.6" y="80.6" width="18.8" height="18.8" rx="3" fill="none" stroke="#4f5d75" stroke-width="1.2"/>
+  <rect x="189.6" y="80.6" width="18.8" height="18.8" rx="3" fill="none" stroke="#4f5d75" stroke-width="1.2"/>
+  <rect x="223" y="80" width="20" height="20" rx="3" fill="#eb6c36"/>
+  <rect x="246.6" y="80.6" width="18.8" height="18.8" rx="3" fill="none" stroke="#4f5d75" stroke-width="1.2"/>
+  <rect x="269.6" y="80.6" width="18.8" height="18.8" rx="3" fill="none" stroke="#4f5d75" stroke-width="1.2"/>
+  <rect x="292.6" y="80.6" width="18.8" height="18.8" rx="3" fill="none" stroke="#4f5d75" stroke-width="1.2"/>
+  <text x="328" y="94" fill="#4f5d75" font-size="11" font-family="'Geist Mono', monospace" text-anchor="start">3 + 4 + 4</text>
+  <text x="40" y="120" fill="#4f5d75" font-size="12" font-family="'Geist', sans-serif" text-anchor="start">Any single layout of 10 tokens holds 63 bits, one short of 64.</text>
+  <text x="40" y="160" fill="#2d3142" font-size="15" font-family="'Geist', sans-serif" font-weight="600" text-anchor="start">Free spaces</text>
+  <text x="680" y="160" fill="#eb6c36" font-size="12" font-family="'Geist Mono', monospace" font-weight="600" text-anchor="end">10 tokens, 65.6 bits</text>
+  <rect x="40" y="174" width="20" height="20" rx="3" fill="#eb6c36"/>
+  <rect x="63.6" y="174.6" width="18.8" height="18.8" rx="3" fill="none" stroke="#4f5d75" stroke-width="1.2"/>
+  <rect x="86.6" y="174.6" width="18.8" height="18.8" rx="3" fill="none" stroke="#4f5d75" stroke-width="1.2"/>
+  <rect x="109.6" y="174.6" width="18.8" height="18.8" rx="3" fill="none" stroke="#4f5d75" stroke-width="1.2"/>
+  <rect x="143" y="174" width="20" height="20" rx="3" fill="#eb6c36"/>
+  <rect x="166.6" y="174.6" width="18.8" height="18.8" rx="3" fill="none" stroke="#4f5d75" stroke-width="1.2"/>
+  <rect x="189.6" y="174.6" width="18.8" height="18.8" rx="3" fill="none" stroke="#4f5d75" stroke-width="1.2"/>
+  <rect x="212.6" y="174.6" width="18.8" height="18.8" rx="3" fill="none" stroke="#4f5d75" stroke-width="1.2"/>
+  <rect x="246" y="174" width="20" height="20" rx="3" fill="#eb6c36"/>
+  <rect x="269.6" y="174.6" width="18.8" height="18.8" rx="3" fill="none" stroke="#4f5d75" stroke-width="1.2"/>
+  <text x="301" y="188" fill="#4f5d75" font-size="11" font-family="'Geist Mono', monospace" text-anchor="start">4 + 4 + 2</text>
+  <rect x="40" y="206" width="20" height="20" rx="3" fill="#eb6c36"/>
+  <rect x="63.6" y="206.6" width="18.8" height="18.8" rx="3" fill="none" stroke="#4f5d75" stroke-width="1.2"/>
+  <rect x="86.6" y="206.6" width="18.8" height="18.8" rx="3" fill="none" stroke="#4f5d75" stroke-width="1.2"/>
+  <rect x="109.6" y="206.6" width="18.8" height="18.8" rx="3" fill="none" stroke="#4f5d75" stroke-width="1.2"/>
+  <rect x="143" y="206" width="20" height="20" rx="3" fill="#eb6c36"/>
+  <rect x="166.6" y="206.6" width="18.8" height="18.8" rx="3" fill="none" stroke="#4f5d75" stroke-width="1.2"/>
+  <rect x="200" y="206" width="20" height="20" rx="3" fill="#eb6c36"/>
+  <rect x="223.6" y="206.6" width="18.8" height="18.8" rx="3" fill="none" stroke="#4f5d75" stroke-width="1.2"/>
+  <rect x="246.6" y="206.6" width="18.8" height="18.8" rx="3" fill="none" stroke="#4f5d75" stroke-width="1.2"/>
+  <rect x="269.6" y="206.6" width="18.8" height="18.8" rx="3" fill="none" stroke="#4f5d75" stroke-width="1.2"/>
+  <text x="301" y="220" fill="#4f5d75" font-size="11" font-family="'Geist Mono', monospace" text-anchor="start">4 + 2 + 4</text>
+  <rect x="40" y="238" width="20" height="20" rx="3" fill="#eb6c36"/>
+  <rect x="63.6" y="238.6" width="18.8" height="18.8" rx="3" fill="none" stroke="#4f5d75" stroke-width="1.2"/>
+  <rect x="97" y="238" width="20" height="20" rx="3" fill="#eb6c36"/>
+  <rect x="120.6" y="238.6" width="18.8" height="18.8" rx="3" fill="none" stroke="#4f5d75" stroke-width="1.2"/>
+  <rect x="143.6" y="238.6" width="18.8" height="18.8" rx="3" fill="none" stroke="#4f5d75" stroke-width="1.2"/>
+  <rect x="166.6" y="238.6" width="18.8" height="18.8" rx="3" fill="none" stroke="#4f5d75" stroke-width="1.2"/>
+  <rect x="200" y="238" width="20" height="20" rx="3" fill="#eb6c36"/>
+  <rect x="223.6" y="238.6" width="18.8" height="18.8" rx="3" fill="none" stroke="#4f5d75" stroke-width="1.2"/>
+  <rect x="246.6" y="238.6" width="18.8" height="18.8" rx="3" fill="none" stroke="#4f5d75" stroke-width="1.2"/>
+  <rect x="269.6" y="238.6" width="18.8" height="18.8" rx="3" fill="none" stroke="#4f5d75" stroke-width="1.2"/>
+  <text x="301" y="252" fill="#4f5d75" font-size="11" font-family="'Geist Mono', monospace" text-anchor="start">2 + 4 + 4</text>
+  <rect x="380" y="174" width="20" height="20" rx="3" fill="#eb6c36"/>
+  <rect x="403.6" y="174.6" width="18.8" height="18.8" rx="3" fill="none" stroke="#4f5d75" stroke-width="1.2"/>
+  <rect x="426.6" y="174.6" width="18.8" height="18.8" rx="3" fill="none" stroke="#4f5d75" stroke-width="1.2"/>
+  <rect x="449.6" y="174.6" width="18.8" height="18.8" rx="3" fill="none" stroke="#4f5d75" stroke-width="1.2"/>
+  <rect x="483" y="174" width="20" height="20" rx="3" fill="#eb6c36"/>
+  <rect x="506.6" y="174.6" width="18.8" height="18.8" rx="3" fill="none" stroke="#4f5d75" stroke-width="1.2"/>
+  <rect x="529.6" y="174.6" width="18.8" height="18.8" rx="3" fill="none" stroke="#4f5d75" stroke-width="1.2"/>
+  <rect x="563" y="174" width="20" height="20" rx="3" fill="#eb6c36"/>
+  <rect x="586.6" y="174.6" width="18.8" height="18.8" rx="3" fill="none" stroke="#4f5d75" stroke-width="1.2"/>
+  <rect x="609.6" y="174.6" width="18.8" height="18.8" rx="3" fill="none" stroke="#4f5d75" stroke-width="1.2"/>
+  <text x="641" y="188" fill="#4f5d75" font-size="11" font-family="'Geist Mono', monospace" text-anchor="start">4 + 3 + 3</text>
+  <rect x="380" y="206" width="20" height="20" rx="3" fill="#eb6c36"/>
+  <rect x="403.6" y="206.6" width="18.8" height="18.8" rx="3" fill="none" stroke="#4f5d75" stroke-width="1.2"/>
+  <rect x="426.6" y="206.6" width="18.8" height="18.8" rx="3" fill="none" stroke="#4f5d75" stroke-width="1.2"/>
+  <rect x="460" y="206" width="20" height="20" rx="3" fill="#eb6c36"/>
+  <rect x="483.6" y="206.6" width="18.8" height="18.8" rx="3" fill="none" stroke="#4f5d75" stroke-width="1.2"/>
+  <rect x="506.6" y="206.6" width="18.8" height="18.8" rx="3" fill="none" stroke="#4f5d75" stroke-width="1.2"/>
+  <rect x="529.6" y="206.6" width="18.8" height="18.8" rx="3" fill="none" stroke="#4f5d75" stroke-width="1.2"/>
+  <rect x="563" y="206" width="20" height="20" rx="3" fill="#eb6c36"/>
+  <rect x="586.6" y="206.6" width="18.8" height="18.8" rx="3" fill="none" stroke="#4f5d75" stroke-width="1.2"/>
+  <rect x="609.6" y="206.6" width="18.8" height="18.8" rx="3" fill="none" stroke="#4f5d75" stroke-width="1.2"/>
+  <text x="641" y="220" fill="#4f5d75" font-size="11" font-family="'Geist Mono', monospace" text-anchor="start">3 + 4 + 3</text>
+  <rect x="380" y="238" width="20" height="20" rx="3" fill="#eb6c36"/>
+  <rect x="403.6" y="238.6" width="18.8" height="18.8" rx="3" fill="none" stroke="#4f5d75" stroke-width="1.2"/>
+  <rect x="426.6" y="238.6" width="18.8" height="18.8" rx="3" fill="none" stroke="#4f5d75" stroke-width="1.2"/>
+  <rect x="460" y="238" width="20" height="20" rx="3" fill="#eb6c36"/>
+  <rect x="483.6" y="238.6" width="18.8" height="18.8" rx="3" fill="none" stroke="#4f5d75" stroke-width="1.2"/>
+  <rect x="506.6" y="238.6" width="18.8" height="18.8" rx="3" fill="none" stroke="#4f5d75" stroke-width="1.2"/>
+  <rect x="540" y="238" width="20" height="20" rx="3" fill="#eb6c36"/>
+  <rect x="563.6" y="238.6" width="18.8" height="18.8" rx="3" fill="none" stroke="#4f5d75" stroke-width="1.2"/>
+  <rect x="586.6" y="238.6" width="18.8" height="18.8" rx="3" fill="none" stroke="#4f5d75" stroke-width="1.2"/>
+  <rect x="609.6" y="238.6" width="18.8" height="18.8" rx="3" fill="none" stroke="#4f5d75" stroke-width="1.2"/>
+  <text x="641" y="252" fill="#4f5d75" font-size="11" font-family="'Geist Mono', monospace" text-anchor="start">3 + 3 + 4</text>
+  <text x="40" y="282" fill="#4f5d75" font-size="12" font-family="'Geist', sans-serif" text-anchor="start">Each layout: 3 × 7 + 7 × 6 = 63 bits. Six layouts add log₂ 6 = 2.58 bits.</text>
+  <text x="40" y="300" fill="#4f5d75" font-size="12" font-family="'Geist', sans-serif" text-anchor="start">The decoder sees where the spaces are, so the layout itself is data.</text>
+  <rect x="40" y="323" width="14" height="14" rx="3" fill="#eb6c36"/>
+  <text x="62" y="334" fill="#2d3142" font-size="11" font-family="'Geist Mono', monospace" text-anchor="start">beginning token: 1 of 128, 7 bits</text>
+  <rect x="380.6" y="323.6" width="12.8" height="12.8" rx="3" fill="none" stroke="#4f5d75" stroke-width="1.2"/>
+  <text x="402" y="334" fill="#2d3142" font-size="11" font-family="'Geist Mono', monospace" text-anchor="start">continuation token: 1 of 64, 6 bits</text>
+</svg>
